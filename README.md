@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **any open source machine learning or web dev projects!**
 
-- 💬 I love to talk about **UI/UX design, and all the latest tech!**
+- 💬 I love to talk about **tech, design, music, and movies!**
 
-- 📫 You can reach me at **kushalmcodes@gmail.com**
+- 📫 Feel free to reach me at **kushalmcodes@gmail.com**
 
 <h3 align="left">You can also connect with me on my socials:</h3>
 <p align="left">
