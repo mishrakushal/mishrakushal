@@ -46,7 +46,7 @@
 </div>
 <br>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrakushal&show_icons=true&locale=en&layout=compact" alt="mishrakushal" /></p>
+<p><img height="170em" width="auto" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishrakushal&show_icons=true&locale=en&layout=compact" alt="mishrakushal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishrakushal&show_icons=true&locale=en" alt="mishrakushal" /></p>
+<p>&nbsp;<img height="170em" width="auto" align="center" src="https://github-readme-stats.vercel.app/api?username=mishrakushal&show_icons=true&locale=en" alt="mishrakushal" /></p>
 </div>
