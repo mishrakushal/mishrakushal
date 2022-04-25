@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me at **kushalmcodes@gmail.com**
 
-- 📄 Here's my resume: <a href="https://rb.gy/2lpmef">resume.pdf</a>
+- 📄 Here's my resume: <a href="https://drive.google.com/file/d/16hKXh68rtA1S-jdfhbaYl0b5nFYmVcMq/view?usp=sharing">resume.pdf</a>
 
 <h3 align="left">You can also connect with me on my socials:</h3>
 <p align="left">
