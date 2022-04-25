@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **ReactJS and Web3**
 
-- 👯 I’m looking to collaborate on **any open source machine learning or web dev projects!**
+- 👯 I’m looking to collaborate on **any open source software development projects!**
 
 - 💬 I love to talk about **tech, design, music, and movies!**
 
 - 📫 Feel free to reach me at **kushalmcodes@gmail.com**
 
-- 📄 Here's my resume: <a href="https://drive.google.com/file/d/16hKXh68rtA1S-jdfhbaYl0b5nFYmVcMq/view?usp=sharing">resume.pdf</a>
+- 📄 Here's my resume: <a href="https://drive.google.com/file/d/1ztLXw5szwtRiGbSwmwZ9dfBiKFbJxlS3/view?usp=sharing">resume.pdf</a>
 
 <h3 align="left">You can also connect with me on my socials:</h3>
 <p align="left">
