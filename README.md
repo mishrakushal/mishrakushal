@@ -11,7 +11,9 @@
 
 - 📫 Feel free to reach me at **kushalmcodes@gmail.com**
 
-- 📄 Here's my resume: <a href="https://drive.google.com/file/d/1ztLXw5szwtRiGbSwmwZ9dfBiKFbJxlS3/view?usp=sharing">resume.pdf</a>
+- 👨‍💻 Checkout my portfolio website: [https://kushal-mishra.netlify.app/](https://kushal-mishra.netlify.app/)
+
+- 📄 Here's a link to my resume: <a href="https://drive.google.com/file/d/1ztLXw5szwtRiGbSwmwZ9dfBiKFbJxlS3/view?usp=sharing">resume.pdf</a>
 
 <h3 align="left">You can also connect with me on my socials:</h3>
 <p align="left">
