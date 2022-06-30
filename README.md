@@ -13,7 +13,7 @@
 
 - 👨‍💻 Checkout my portfolio website: [https://kushal-mishra.netlify.app/](https://kushal-mishra.netlify.app/)
 
-- 📄 Here's a link to my resume: <a href="https://drive.google.com/file/d/1p31z4xRPrCW12n1TfQKbJcNfcOi1_5oy/view?usp=sharing">resume.pdf</a>
+- 📄 Here's a link to my resume: <a href="https://drive.google.com/file/d/1zOQN8cZDXSAaxSQK2a9wcybhGpnDiEER/view">resume.pdf</a>
 
 <h3 align="left">You can also connect with me on my socials:</h3>
 <p align="left">
