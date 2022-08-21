@@ -3,7 +3,7 @@
 <br>
 <img align="right" height="370em" width="370em" src="https://drive.google.com/uc?export=view&id=1UXB2R30F1kAmdtQ2VgWBLxEuEAeUKjnA" />
 
-- 🌱 I’m currently learning **ReactJS and Web3**
+- 🌱 I’m currently exploring **machine learning**
 
 - 👯 I’m looking to collaborate on **any open source software development projects!**
 
