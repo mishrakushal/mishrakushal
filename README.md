@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Mishra</h1>
-<h3 align="center">A Computer Science Undergrad exploring Web Dev and Web 3.0</h3>
+<h3 align="center">A Computer Science Undergrad exploring everything computers!</h3>
 <br>
 <img align="right" height="370em" width="370em" src="https://drive.google.com/uc?export=view&id=1UXB2R30F1kAmdtQ2VgWBLxEuEAeUKjnA" />
 
-- 🌱 I’m currently exploring **machine learning**
+- 🌱 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **any open source software development projects!**
 
