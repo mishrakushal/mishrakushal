@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me at **kushalmcodes@gmail.com**
 
-- 👨‍💻 Checkout my portfolio website: [https://mishrakushal.github.io/self/](https://mishrakushal.github.io/self/)
+- 👨‍💻 Checkout my portfolio website: [website-link](https://mishrakushal.github.io/self/)
 
 - 📄 Here's a link to my resume: <a href="https://drive.google.com/file/d/1i7pxGHgyBNIyhvonssyxiaOLhZzczNy0/view?usp=sharing">resume.pdf</a>
 
