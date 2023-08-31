@@ -13,7 +13,7 @@
 
 - 👨‍💻 Checkout my portfolio website: [website-link](https://mishrakushal.github.io/self/)
 
-- 📄 Here's a link to my resume: <a href="https://drive.google.com/file/d/1i7pxGHgyBNIyhvonssyxiaOLhZzczNy0/view?usp=sharing">resume.pdf</a>
+[//]: <> (- 📄 Here's a link to my resume: <a href="https://drive.google.com/file/d/1i7pxGHgyBNIyhvonssyxiaOLhZzczNy0/view?usp=sharing">resume.pdf</a>)
 
 <h3 align="left">You can also connect with me on my socials:</h3>
 <p align="left">
