@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I'm Kushal, a final-year Computer Science undergrad at BITS Pilani, Hyderabad 🎓
+Hi! 👋 I'm Kushal, an analyst at JPMorganChase 👨🏻‍💻
 - My interests lie in software development and engineering! I have worked with Java☕ and Python🐍 in the past, although I try not to limit myself to any language — after all, it's just `1️`s and `0️`s 😄<br> 
 - I’m exploring software development via applications of AI-ML, and also learning to make open-source contributions 👨‍💻<br> 
 - Feel free to reach out to me on any of my socials :)
