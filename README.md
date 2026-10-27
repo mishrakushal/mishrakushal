@@ -1,35 +1,84 @@
-# 💫 About Me:
-Hi! 👋 I'm Kushal, an AI Engineer at Biopeak Health 🧬
-- My interests lie in software development and engineering! I have worked with Java☕ and Python🐍 in the past, although I try not to limit myself to any language — after all, it's just `1️`s and `0️`s 😄<br> 
-- I’m exploring software development via applications of AI-ML, and also learning to make open-source contributions 👨‍💻<br> 
-- Feel free to reach out to me on any of my socials :)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img src="assets/terminal-light.svg" alt="A command line. Someone types claude, deletes it, and types kushal instead, then asks: who are you? The reply: I'm Kushal, your friendly neighbourhood agent wrangler. Then a hint: ask again in dark mode. In dark mode the answer is code-slinger." width="100%">
+</picture>
 
+Specialist AI Engineer at Biopeak Health. I built Luma: an AI clinical co-pilot, one live view of a patient's full diagnostic history (20+ report types), built and shipped solo into daily clinical use.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/k.u.shall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushal-mishra) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mishrakushal) 
-<!--
-![Medium](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
--->
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### `> what have you shipped?`
 
-<!--
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+`● ls ~/shipped`
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- [`playdeck`](https://mishrakushal.github.io/playdeck/) · my live side projects, pasted up as two-ink riso posters. Every poster is a working deployment.
+- [`cc-helper`](https://cc-helper.vercel.app/) · drops CLAUDE.md, DESIGN.md and EXAMPLES.md into a new project, so the rules show up before the code does.
+- [`chat-cards`](https://github.com/mishrakushal/claude-improvements) · draws your prompts and Claude's text replies as rounded cards in the Claude Code terminal transcript.
+- [`find-me-a-place`](https://find-me-a-place-liart.vercel.app/) · somewhere to meet that's fair to the whole group. Places are ranked by how evenly everyone's travel time is spread, not by the midpoint (the midpoint is usually a lake).
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
--->
+<details>
+<summary><code>+3 more</code></summary>
 
-<!---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mishrakushal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mishrakushal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mishrakushal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- [`fib-me`](https://fib-me.vercel.app/) · everyone writes a lie for a weird true fact, then tries to find the real answer among the lies.
+- [`imposter`](https://imposter-teal-eight.vercel.app/) · everyone gets the secret word except the imposter, who gets the category and a lot of confidence.
+- [`vitruvian-pokemon`](https://vitruvian-sigma.vercel.app/#25) · Leonardo never met a Pikachu. Every Pokémon's real 3D model, measured from its own mesh and bones and drawn into his notebook.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mishrakushal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</details>
 
----
-[![](https://visitcount.itsvg.in/api?id=mishrakushal&icon=5&color=0)](https://visitcount.itsvg.in)
--->
+### `> how do you work?`
+
+`● cat notebook.md`
+
+> I try to get it out of my head instead of trying to sort it in my head.
+
+0. **Out of my head.** Ideas, edge cases, short- and long-term goals, on paper first.
+1. **Decompose.** Break it down.
+2. **Design.** Draw the system.
+3. **Build.** Write the code myself.
+4. **Ship.** Good enough, and deployed.
+5. **Observe.** Watch it.
+
+Back to 0: building (and breaking and re-building).
+
+**A good enough solution which is deployed is always better than the perfect solution sitting on your local.**<br>
+↳ Five Playdeck projects are live. Find Me A Place runs at ₹0 on free tiers.
+
+**Observability is a powerful weapon.**<br>
+↳ Sentry catches every route failure in Find Me A Place, and rate limits answer 429 with a Retry-After.
+
+**I care about the edge cases nobody sees.**<br>
+↳ Fib-Me dedupes lies by NFKD-normalised text. Find Me A Place's Weiszfeld variant never divides by zero when the answer lands on someone's front door.
+
+<details>
+<summary><code>&gt; show me your model card</code></summary>
+
+**trained on** · BITS Pilani, BE Computer Science (2020–24) · JPMorgan Chase (2024–25) · Biopeak Health (2025–)
+
+**known limitations** · "I wasn't a topper, but I was always curious and willing to get my hands dirty."
+
+| eval | result |
+| --- | --- |
+| weekly report generation, JPMorgan Chase 2024 | 94.44% faster |
+| report types in one patient record, Luma | 20+ |
+| tests, Find Me A Place | 102 in 18 files |
+| divide-by-zero when the answer is someone's front door | 0 |
+
+</details>
+
+<details>
+<summary><code>&gt; what have you written?</code></summary>
+
+- [How Agentic Coding is rewriting Software Engineering Principles](https://mishrakushal.medium.com/how-agentic-coding-is-rewriting-software-engineering-principles-b5312ce5f15a) · Medium, Apr 2026
+- [HealthRec-Chain: Patient-centric blockchain enabled IPFS for privacy preserving scalable health data](https://doi.org/10.1016/j.comnet.2024.110223) · Computer Networks, vol. 241, 2024
+
+</details>
+
+### `> what do you build with?`
+
+`● which kushal`
+
+Python · FastAPI · RAG · LLM routing · Next.js · Claude Code
+
+### `> where can I find you?`
+
+`● open`
+
+[LinkedIn](https://www.linkedin.com/in/kushal-mishra) · [Medium](https://medium.com/@mishrakushal) · [mishrakushal.github.io](https://mishrakushal.github.io/)
